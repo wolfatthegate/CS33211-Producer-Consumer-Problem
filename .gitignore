@@ -1,0 +1,11 @@
+# build outputs of cpp/
+cpp/producer
+cpp/consumer
+cpp/cleanup
+
+# build outputs of c/
+c/producer
+c/consumer
+c/cleanup
+
+.DS_Store
