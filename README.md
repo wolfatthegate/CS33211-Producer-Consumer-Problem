@@ -1,4 +1,4 @@
-# CS33211-Assignment
+# CS33211-Extra-Credit-Assignment: Producer Consumer Problem
 
 Author - Waylon Luo (Kent State University)
 
