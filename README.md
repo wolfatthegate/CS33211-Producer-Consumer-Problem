@@ -1,4 +1,4 @@
-# CS33211-Extra-Credit-Assignment: Producer Consumer Problem
+# CS33211: Producer Consumer Problem (Extra Credit Assignment)
 
 Author - Waylon Luo (Kent State University)
 
